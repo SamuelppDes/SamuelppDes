@@ -2,6 +2,10 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas na Fatec e do curso técnico em Desenvolvimento de Sistemas no SENAI. Este perfil reúne projetos acadêmicos, ideias em desenvolvimento e as anotações do curso técnico.
 
+[![Portfólio Pessoal](https://img.shields.io/badge/Portf%C3%B3lio_Online-samuelppdes.github.io-0f5f9c?style=for-the-badge&logo=githubpages&logoColor=white)](https://samuelppdes.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-sppdes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sppdes/)
+
+> **Acesse meu portfólio completo:** [samuelppdes.github.io](https://samuelppdes.github.io/)
+
 ## Projetos
 
 | Projeto | Descrição | Tecnologias |
